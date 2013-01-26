@@ -13,6 +13,4 @@ version and cleans up aisle 4 after removing the empty folder and zip file.
 
 ##Using
 
-Enter 
-	chmod u+x chromium.sh
-so the script will be executable.
+Enter __chmod u+x chromium.sh__ so the script will be executable.
